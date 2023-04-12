@@ -6,6 +6,7 @@ export default function Home() {
         <li> {process.env.NEXT_PUBLIC_TEST_1} </li>{' '}
         <li> {process.env.NEXT_STATIC_TEST_1} </li>{' '}
       </ul>{' '}
+      <h1> merhab </h1>{' '}
     </div>
   );
 }
