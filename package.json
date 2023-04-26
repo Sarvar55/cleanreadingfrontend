@@ -9,6 +9,14 @@
     "yarn": ">=1.22.0",
     "npm": "please-use-yarn"
   },
+  "repository": {
+    "url": "https://github.com/SDU-Bilgisayar-Muhendisligi/cleanreading.git"
+  },
+  "release": {
+    "branches": [
+      "master"
+    ]
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
